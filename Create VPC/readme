@@ -1,0 +1,4 @@
+We can use this to create a VPC.
+6 subnets: 3 private and 3 public
+Internet Gateway
+Route tables
