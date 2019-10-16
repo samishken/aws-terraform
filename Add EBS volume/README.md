@@ -1,1 +1,1 @@
-Add EBS volume to our instance
+- Attach EBS volume to our instance
